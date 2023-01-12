@@ -24,7 +24,7 @@
 
 
 ## ***Big-O*** Gösterimi
-### O(n²)’ ***dir.***
+### O(nlogn)’ ***dir.***
 
 
 ## License
