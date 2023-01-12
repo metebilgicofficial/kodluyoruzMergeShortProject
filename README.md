@@ -4,7 +4,11 @@
 ### ***[16,21,11,8,12,22] -> Merge Sort***
 ## Aşamaları
 #### ***Listeyi her adımda parçalayıp tek eleman kalıncaya kadar böleceğiz. Böldükten sonra sıralı bir şekilde dizmeye başlayacağız.***
-https://github.com/metebilgicofficial/kodluyoruzMergeShortProject
+
+
+*https://github.com/metebilgicofficial/kodluyoruzMergeShortProject*
+
+
 
 
 **[16,21,11,8,12,22]**
