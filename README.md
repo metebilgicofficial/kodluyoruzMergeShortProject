@@ -24,7 +24,7 @@
 
 
 ## ***Big-O*** Gösterimi
-### O(nlogn)’ ***dir.***
+### O=n(logn)’ ***dir.***
 
 
 ## License
